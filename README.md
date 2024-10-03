@@ -16,8 +16,7 @@ pip install pandas numpy matplotlib
 ```
 
 ## Data used
-- SoMon.csv: Contains monthly temperature anomalies for the Northern Hemisphere
-- NoMon.csv: Contains monthly temperature anomalies for the Southern Hemisphere <br/>
+- Oil_Production.csv <br/>
 
 ## How to run
 Once you have installed the following files to the same directory:
